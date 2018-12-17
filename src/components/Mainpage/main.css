@@ -1,0 +1,17 @@
+.banner {
+  background-image: url('../../images/stretching-the-dough-too-thin.jpg');
+  min-height: 95vh;
+  min-width: 100vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: -10px;
+}
+
+.quote {
+  position: absolute;
+  z-index: 2px;
+  color: black;
+  font-size: 52px;
+  font-weight: bold;
+  width: 40%;
+}

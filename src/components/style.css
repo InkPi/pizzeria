@@ -1,0 +1,37 @@
+.ImagePepperoni {
+  background-image: url('../images/204924-1bd98c79243057e7a8da5afe3ba5773cba4ce089_642x428.jpg');
+};
+
+.ImageVeggie {
+  background-image: url('../images/Grilled-Veggie-Pizza_EXPS_LSBZ18_48960_D01_18_6b-696x696.jpg');
+}
+
+.ImageHawaiian {
+  background-image: url('../images/1374-3-large.jpg');
+}
+
+.ImageMushroom {
+  background-image: url('../images/451fb414c72c58931df6f4c178db5a85--mushroom-pizza-white-sauce.jpg');
+}
+
+.ImageCheese {
+  background-image: url('../images/cheese-pizza-white-background-79167.jpg');
+}
+
+.ImgSize {
+  height: 400px;
+  min-width: 100vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.box {
+  height: 350px;
+}
+
+.textbox {
+  width: 50%;
+  text-align: center;
+  display: inline-block;
+}
